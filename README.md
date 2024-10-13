@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seaspar
-- 👀 I’m interested in acoustics, in particular the soundscape which is determined by all the sounds we hear
-- 🌱 I’m currently a PhD researcher at the University of Galway, studying coastal soundscapes
-- 💞️ I’m looking to collaborate on handling large data files including .wav audio files and .nc weather data files
+- 👀 I’m interested in acoustics, in particular the soundscape which is determined by all the sounds we hear.
+- 🌱 I’m currently a PhD researcher at the University of Galway, studying coastal soundscapes. I have just started the second year of my PhD. This Github repository is for the PH502 Scientific Programming Concepts module.
+- 💞️ I’m looking to collaborate on handling large data files including .wav audio files and .nc weather data files. 
 - 📫 My email is e.mckeown4@universityofgalway.ie
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a student after working for 40 years in the field.
